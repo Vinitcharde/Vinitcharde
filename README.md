@@ -33,8 +33,10 @@ Passionate about backend, databases, and clean, user‑friendly interfaces.
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Python, C, C++, JavaScript  
-- **Web:** HTML, CSS, (add React/Node/Flask if you use them)  
+- **Languages:** Python, C, C++, JavaScript,R
+- **Web:** HTML, CSS, (add React/Node/Flask if you use them)
+- **Libraries & Tools** Numpy,Pandas,Matplotlib,Seaborn,sciket-Learn
+- **Data Science & Analytics**  Exploratory Data Analysis (EDA),Data cleaning & preprocessing ,Web scraping 
 - **Databases:** MySQL / SQLite / PostgreSQL (edit to what you actually use)  
 - **Tools:** Git, GitHub, VS Code, DB Browser for SQLite, Postman  
 
@@ -55,10 +57,13 @@ Passionate about backend, databases, and clean, user‑friendly interfaces.
 
 ## 📚 Currently Learning
 
-- Advanced Python (OOP, APIs, automation scripts)  
+- Advanced Excel (dashboards, analysis & automation)  
 - SQL optimization, joins, and database design  
 - Data structures & algorithms for interviews  
-- Modern frontend practices and UI/UX improvements  
+- Machine learning model improvement  
+- AI & generative AI applications  
+- Business intelligence tools  
+
 
 ---
 
