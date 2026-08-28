@@ -143,12 +143,19 @@
 
 <td width="50%" valign="top">
 
-### 🌊 AapadMitra & Event Platforms
-*Data-driven crisis support and interactive 3D visualization applications.*
+### 🏛️ The Odyssey — Data Dive 5.0
 
-* **Disaster Routing:** Flood routing simulations and rescue team assignment logic.
-* **Interactive UI:** Smooth transitions, responsive dashboards, and 3D visual web design.
-* **Tech Stack:** `Python` `Data Analysis` `Three.js / GSAP` `Tailwind CSS`
+*A cinematic departmental events platform designed for university symposiums and technical events.*
+
+- 🎬 Cinematic responsive UI
+- 🎴 Interactive 3D event cards
+- 📱 QR-based registration
+- 🎥 Video & media integration
+- 📅 Add-to-calendar functionality
+
+**Tech Stack:** `React` `TypeScript` `Vite` `Tailwind CSS` `Motion`
+
+🔗 **[View Repository](https://github.com/Vinitcharde/dep-event)**
 
 </td>
 
