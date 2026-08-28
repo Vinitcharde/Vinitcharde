@@ -139,6 +139,8 @@
 * **Ordering Workflow:** Interactive cart management and order tracking interface.
 * **Tech Stack:** `Python` `Flask` `JavaScript` `CSS3`
 
+🔗 [View LabEquip — Scientific Repository](https://github.com/anshjw/Sci-Lab-Equip-E-Commerce.git)
+
 </td>
 
 <td width="50%" valign="top">
@@ -151,10 +153,8 @@
 - 🎴 Interactive 3D event cards
 - 📱 QR-based registration
 - 🎥 Video & media integration
-- 📅 Add-to-calendar functionality
-
+ 
 **Tech Stack:** `React` `TypeScript` `Vite` `Tailwind CSS` `Motion`
-
 🔗 **[View Repository](https://github.com/Vinitcharde/dep-event)**
 
 </td>
